@@ -1,4 +1,14 @@
-### Hi there 👋
+## Github Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ranjafunc&row=1&column=5&theme=flat&margin-w=15)
+
+## Github Info
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjafunc&langs_count=8&exclude_repo=Example-deep-learning-from-scratch&layout=compact&line_height=24&hide_border=true&title_color=d88e82">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjafunc&line_height=24&hide_border=true&title_color=d88e82">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ranjafunc&layout=compact&hide_border=true&title_color=d88e82"">
+</p>
 
 <!--
 **ranjafunc/ranjafunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
