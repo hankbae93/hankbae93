@@ -1,6 +1,9 @@
 # HELLO WORLD
 안녕하세요! 프론트엔드 개발자 서정린입니다.
 
+# BLOG
+https://rainbow-flavor.tistory.com/
+
 ### Skills 😁
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
