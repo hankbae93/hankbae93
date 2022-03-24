@@ -2,7 +2,8 @@
 <h3 align="left">안녕하세요 프론트엔드 개발자 서정린입니다.</h3>
 
 - 🔭 I’m currently working on [RANJA](https://github.com/ranjafunc/RANJA)
-- 🌱 I’m currently learning **redux-saga, typescript, nodejs, DB, ODM, ORM**
+- 🌱 I’m currently learning **redux-saga, typescript **
+- Blog: https://velog.io/@ranja
 
 ## Languages and Tools:
 
