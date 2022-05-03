@@ -165,20 +165,7 @@ height="60"
 />
 </a>
 
-## GitHubInfo
-
-<p align="left">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img
-src="https://github-profile-trophy.vercel.app/?username=ranjafunc"
-alt="ranjafunc"
-/></a>
-
-<img
-align="center"
-src="https://github-readme-stats.vercel.app/api?username=ranjafunc&show_icons=true&locale=en"
-alt="ranjafunc"
-/>
+<br />
 
 <p> 
 <img
